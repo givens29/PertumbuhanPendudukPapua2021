@@ -1,0 +1,32 @@
+[
+    {
+        "kabupaten_id":"1", // kab jayapura
+        "distrik":"Sentani Kota",
+        "jml_penduduk": 12000
+    },
+    {
+        "kabupaten_id":"1", // kab jayapura
+        "distrik":"Sentani Timur",
+        "jml_penduduk": 10000
+    },
+    {
+        "kabupaten_id":"1", // kab jayapura
+        "distrik":"Sentani Barat",
+        "jml_penduduk": 9000
+    },
+    {
+        "kabupaten_id":"32", // kab keerom
+        "kabupaten":"Arso",
+        "jml_penduduk": 1000
+    },
+    {
+        "kabupaten_id":"3", // kab sarmi
+        "kabupaten":"Sarmi Sarmi Kota",
+        "jml_penduduk": 2000
+    },
+    {
+        "kabupaten_id":"4", // kab biak
+        "kabupaten":"Distrik Biak Kota",
+        "jml_penduduk": 1500
+    },
+]

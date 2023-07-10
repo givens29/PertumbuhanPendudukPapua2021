@@ -1,0 +1,18 @@
+[
+    {
+        "kabupaten":"Jayapura",
+        "jml_penduduk": 12000
+    },
+    {
+        "kabupaten":"Keerom",
+        "jml_penduduk": 1000
+    },
+    {
+        "kabupaten":"Sarmi",
+        "jml_penduduk": 2000
+    },
+    {
+        "kabupaten":"Biak",
+        "jml_penduduk": 1500
+    }
+]
